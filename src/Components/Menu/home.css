@@ -1,0 +1,7 @@
+.background {
+    height: 655px;
+    width: 100%;
+    /* background-image: url('/public/images/background.avif'); */
+    background-image: url('/public/images/background2.avif');
+    background-size: 100% 100%;
+}
